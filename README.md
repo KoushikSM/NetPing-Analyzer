@@ -91,4 +91,4 @@ Your Name Here
 Developed as part of a cybersecurity / ethical hacking practical to understand ICMP-based network probing techniques.
 
 # Repository
-https://github.com/Nyabayo/ping-info-gatherer.git
+https://github.com/KoushikSM/NetPing-Analyzer
